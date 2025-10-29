@@ -14,4 +14,5 @@ class SinglyLinkedList:
 
 myList = SinglyLinkedList()
 myList.insert(2)
+myList.insert(3)
 myList.insert(10)
